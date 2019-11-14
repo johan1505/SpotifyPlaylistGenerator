@@ -9,7 +9,7 @@ The program asks for the user's spotify username and then redirects him/her to a
 Instructions:  
  - When prompted for your favorite artists, enter the name of the artist and press enter to proceed entering more artists. Press q to stop
  - The program will only let you input an artist's name once
- - When prompted if you want to start listening to your playlist on a device, if yes, make sure to choose either Smartphone or Computer and have the chosen device runnig on the backgroun
+ - When prompted if you want to start listening to your playlist on a device, if yes, make sure to choose either Smartphone or Computer and have the chosen device runnig on the background
  - Enjoy your playlist!
 
 What was learned?
